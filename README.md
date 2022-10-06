@@ -12,6 +12,7 @@ Repo to keep track of the solutions &amp; notes for LeetCode problems.
 [2. Add Two Numbers](/Problems/Linked_List/2_Add_Two_Numbers)
 
 ### Two Pointers Traversal / Sliding Window
+[3. Longest Substring Without Repeating Characters](/Problems/Sliding_Window/3_Longest_Substring_Without_Repeating_Characters)
 
 ### Fast and Slow Pointers Traversal
 
