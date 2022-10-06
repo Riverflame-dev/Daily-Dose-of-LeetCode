@@ -24,6 +24,7 @@ Repo to keep track of the solutions &amp; notes for LeetCode problems.
 [14. Longest Common Prefix](/Problems/String_Manipulation/14_Longest_Common_Prefix)
 
 ### Digital Operations
+[9. Palindrome Number](/Problems/Digital_Operations/9_Palindrome_Number)
 
 ### Array Operations
 
