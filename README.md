@@ -27,6 +27,7 @@ Repo to keep track of the solutions &amp; notes for LeetCode problems.
 [9. Palindrome Number](/Problems/Digital_Operations/9_Palindrome_Number)
 
 ### Array Operations
+[121. Best Time to Buy and Sell Stock](/Problems/Array_Operations/12_Best_Time_to_Buy_and_Sell_Stock)
 
 ### Stack
 
