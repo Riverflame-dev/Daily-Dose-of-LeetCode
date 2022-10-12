@@ -4,7 +4,7 @@ This approach makes use of the Math.sqrt() to check if sqrt(c - a^2) turns out t
 
 Time complexity : O(sqrt(c) * log(c))
 - We iterate over sqrt(c) for choosing an a
-- For every a, finding square root of c - a^2 takes O(log c) in the worst case.
+- For every a, finding square root of c - a^2 takes O(log c) in the worst case. (This is debatable tho)
 
 Space complexity : O(1) 
 - Constant extra space is used.
