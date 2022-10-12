@@ -1,5 +1,6 @@
 /*
-Calculate the difference of target (c) and the current element (a) and find the other element (b)
+Algorithm:
+Calculate the difference of target (c) and the current element (a) and find the other element (b) using two pointer/sliding window.
 
 Time Complexity
 Since we are iterating the array only once, the time complexity would be O(n).
