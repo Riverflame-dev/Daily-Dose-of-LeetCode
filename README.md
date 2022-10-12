@@ -12,9 +12,9 @@ Repo to keep track of the solutions &amp; notes for LeetCode problems.
 [2. Add Two Numbers](/Problems/Linked_List/2_Add_Two_Numbers)
 
 ### Two Pointers Traversal / Sliding Window
-[Sliding Window: 3. Longest Substring Without Repeating Characters](/Problems/Sliding_Window/3_Longest_Substring_Without_Repeating_Characters)
-[Fast and Slow pointers: 26. Remove Duplicates from Sorted Array](/Problems/26_Remove_Duplicates_from_Sorted_Array)
-[Head and Tail pointers: 167. Two Sum II - Input Array Is Sorted](/Problems/167_Two Sum_II-Input_Array_Is_Sorted)
+- Sliding Window: [3. Longest Substring Without Repeating Characters](/Problems/Sliding_Window/3_Longest_Substring_Without_Repeating_Characters)
+- Fast and Slow pointers: [26. Remove Duplicates from Sorted Array](/Problems/26_Remove_Duplicates_from_Sorted_Array)
+- Head and Tail pointers: [167. Two Sum II - Input Array Is Sorted](/Problems/167_Two_Sum_II)
 
 
 ### Fast and Slow Pointers Traversal
