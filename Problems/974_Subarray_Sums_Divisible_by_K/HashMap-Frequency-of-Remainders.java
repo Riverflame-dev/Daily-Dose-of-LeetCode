@@ -1,4 +1,11 @@
 // Explained: https://www.youtube.com/watch?v=NiUsnWNwixk
+// Approach:
+// - We will use a Hash map and store the count of remainders in the Map.
+// - Iterate throught the list and calculate the sum till each value.
+// - find the remainder of the sum at each index and store it in the map
+// - if that remainder already exist in the map, this means the sum of the sum array from that idx to current index is divisible by k.
+// - So add the count present for that remainder to the final count and increment the value in map
+// - return the final count.
 
 class Solution {
     public int subarraysDivByK(int[] nums, int K) {
