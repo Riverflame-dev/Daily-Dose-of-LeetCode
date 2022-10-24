@@ -32,7 +32,8 @@ class Solution {
 
             // if the mid element is lesser than its previous element then mid element is the smallest
             // The point of change from higher to lower value is nums[mid - 1] to nums[mid]
-            if (nums[mid - 1] > nums[mid]) return nums[mid];
+            // *NOTE: this else if statement comes later because if mid is 0 and mid-1 goes out of range.
+            else if (nums[mid - 1] > nums[mid]) return nums[mid]; 
 
             // if the mid elements value is greater than the 0th element
             // then the point of change is somewhere to the right 
