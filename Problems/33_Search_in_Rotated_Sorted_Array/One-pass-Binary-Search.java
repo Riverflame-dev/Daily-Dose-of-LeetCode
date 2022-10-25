@@ -1,7 +1,9 @@
 /*
 Approach 2: One-pass Binary Search
-- Instead of going through the input array in two passes, we could achieve the goal in one pass with an revised binary search.
 - The idea is that we add some additional condition checks in the normal binary search in order to better narrow down the scope of the search.
+- Use the fact that half of the array (left or right half to the pivot) is sorted, to better identify where the target is in.
+- Binary search works by dividing the sorted elements into two groups. We check the arr[mid] if it is the target. 
+  If it is not, the next step is to exclude one half of elements and search in the other. Thus leading to a TC of O(log n).
 
 Time complexity : O(logN).
 Space complexity : O(1).
