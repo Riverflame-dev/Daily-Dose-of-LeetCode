@@ -19,6 +19,7 @@ class Solution {
         Arrays.sort(nums);
         List<List<Integer>> output = new LinkedList();
         
+        // We move our pivot element nums[i] and analyze elements to its right
         for (int i = 0; i < nums.length-2; i++) {
             
             // Skip if we found duplicates
