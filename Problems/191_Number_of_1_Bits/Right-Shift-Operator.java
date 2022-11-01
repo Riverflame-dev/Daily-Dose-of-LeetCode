@@ -10,6 +10,7 @@ Space Complexity: O(1), since no additional space is allocated.
 public class Solution {
     public int hammingWeight(int n) {
         int count = 0;
+        // As soon as the number becomes 00, we know that it does not have any more 11-bits, and we return the sum
         while (n != 0) {
             // if n%2 = -1, -1 & 1 will still evaluate to true
             if (((n % 2) & 1) == 1) count++;
