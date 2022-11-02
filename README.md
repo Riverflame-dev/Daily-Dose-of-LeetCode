@@ -29,7 +29,7 @@ Repo to keep track of the solutions &amp; notes for LeetCode problems.
 - [Insert Interval](/Problems/57_Insert_Interval)
 - 
 - [Meeting Rooms](/Problems/252_Meeting_Rooms)
-- 
+- [Meeting Rooms II](/Problems/253_Meeting_Rooms_II)
 
 ### String
 - [Longest Substring Without Repeating Characters](/Problems/3_Longest_Substring_Without_Repeating_Characters)
@@ -77,6 +77,8 @@ Repo to keep track of the solutions &amp; notes for LeetCode problems.
 
 ### Fast and Slow Pointers Traversal
 
+### Priority Queues
+- [Meeting Rooms II](/Problems/253_Meeting_Rooms_II)
 
 ### Digital Operations
 [9. Palindrome Number](/Problems/Digital_Operations/9_Palindrome_Number)
