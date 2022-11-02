@@ -15,18 +15,18 @@ class Solution {
 
         while (r < s.length()) {
 
-						// Update l with index+1 of the last repeated char
+	    // Update l with index+1 of the last repeated char
             int c = s.charAt(r);
             l = Math.max(chars[c - offset], l);
 
-						// r - l + 1 : calculate length of the current unique substring
-						// Update the longest value
+	    // r - l + 1 : calculate length of the current unique substring
+	    // Update the longest value
             longest = Math.max(longest, r - l + 1);
 
-						// Update chars[] with the index+1 for all encountered chars
+	    // Update chars[] with the index+1 for all encountered chars
             chars[c - offset] = r + 1;
 
-						// Move pointer to next char
+	    // Move pointer to next char
             r++;
         }
 
