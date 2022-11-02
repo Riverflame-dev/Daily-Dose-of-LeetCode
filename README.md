@@ -4,9 +4,43 @@ Repo to keep track of the solutions &amp; notes for LeetCode problems.
 
 ## Topics
 
-### Hash Table
-[1. Two Sum](/Problems/Hash_Table/Q1_Two_Sum)
+### Array
+- [Two Sum](/Problems/1_Two_Sum)
+- [Best Time to Buy and Sell Stock](/Problems/12_Best_Time_to_Buy_and_Sell_Stock)
+- [Contains Duplicate](/Problems/217_Contains_Duplicate)
+- [Product of Array Except Self](/Problems/238_Product_of_Array_Except_Self)
+- [Maximum Subarray](/Problems/53_Maximum_Subarray)
+- [Maximum Product Subarray](/Problems/152_Maximum_Product_Subarray)
+- [Find Minimum in Rotated Sorted Array](/Problems/153_Find_Minimum_in_Rotated_Sorted_Array)
+- [Search in Rotated Sorted Array](/Problems/33_Search_in_Rotated_Sorted_Array)
+- [3 Sum](/Problems/15_3Sum)
+- [Container With Most Water](/Problems/11_Container_With_Most_Water)
 
+### Binary
+- [Sum of Two Integers](/Problems/371_Sum_of_Two_Integers)
+- [Number of 1 Bits](/Problems/191_Number_of_1_Bits)
+- [Counting Bits](/Problems/338_Counting_Bits)
+- [Missing Number](/Problems/268_Missing_Number)
+- [Reverse Bits](/Problems/190_Reverse_Bits)
+
+### Interval
+- [Merge Intervals](/Problems/56_Merge_Intervals)
+- [Insert Interval](/Problems/57_Insert_Interval)
+- 
+- 
+- 
+
+### String
+- [Longest Substring Without Repeating Characters](/Problems/3_Longest_Substring_Without_Repeating_Characters)
+- [Longest Common Prefix](/Problems/14_Longest_Common_Prefix)
+- [Valid Parentheses](/Problems/20_Valid_Parentheses)
+- [Valid Anagram](/Problems/242_Valid_Anagram)
+-
+-
+-
+-
+-
+-
 
 ### Linked List Operations
 [2. Add Two Numbers](/Problems/Linked_List/2_Add_Two_Numbers)
@@ -19,18 +53,9 @@ Repo to keep track of the solutions &amp; notes for LeetCode problems.
 
 ### Fast and Slow Pointers Traversal
 
-### Interval Merge
-
-
-### String Manipulation
-
-[14. Longest Common Prefix](/Problems/String_Manipulation/14_Longest_Common_Prefix)
 
 ### Digital Operations
 [9. Palindrome Number](/Problems/Digital_Operations/9_Palindrome_Number)
-
-### Array Operations
-[121. Best Time to Buy and Sell Stock](/Problems/Array_Operations/12_Best_Time_to_Buy_and_Sell_Stock)
 
 ### Stack
 
