@@ -15,6 +15,7 @@ Repo to keep track of the solutions &amp; notes for LeetCode problems.
 - [Search in Rotated Sorted Array](/Problems/33_Search_in_Rotated_Sorted_Array)
 - [3 Sum](/Problems/15_3Sum)
 - [Container With Most Water](/Problems/11_Container_With_Most_Water)
+- [Majority Element](/Problems/169_Majority_Element)
 
 ### Binary
 - [Sum of Two Integers](/Problems/371_Sum_of_Two_Integers)
@@ -51,6 +52,8 @@ Repo to keep track of the solutions &amp; notes for LeetCode problems.
 -
 
 ### Heap
+- [Kth Largest Element in an Array](/Problems/215_Kth_Largest_Element_in_an_Array)
+- 
 -
 -
 -
@@ -71,7 +74,6 @@ Repo to keep track of the solutions &amp; notes for LeetCode problems.
 - Sliding Window: [3. Longest Substring Without Repeating Characters](/Problems/Sliding_Window/3_Longest_Substring_Without_Repeating_Characters)
 - Fast and Slow pointers: [26. Remove Duplicates from Sorted Array](/Problems/26_Remove_Duplicates_from_Sorted_Array)
 - Head and Tail pointers: [167. Two Sum II - Input Array Is Sorted](/Problems/167_Two_Sum_II)
-
 
 ### Fast and Slow Pointers Traversal
 
