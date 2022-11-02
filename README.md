@@ -28,7 +28,7 @@ Repo to keep track of the solutions &amp; notes for LeetCode problems.
 - [Merge Intervals](/Problems/56_Merge_Intervals)
 - [Insert Interval](/Problems/57_Insert_Interval)
 - 
-- 
+- [Meeting Rooms](/Problems/252_Meeting_Rooms)
 - 
 
 ### String
