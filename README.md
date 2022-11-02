@@ -2,7 +2,7 @@
 Repo to keep track of the solutions &amp; notes for LeetCode problems.
 
 
-## Topics
+## Topics by Data Structure
 
 ### Array
 - [Two Sum](/Problems/1_Two_Sum)
@@ -42,8 +42,30 @@ Repo to keep track of the solutions &amp; notes for LeetCode problems.
 -
 -
 
-### Linked List Operations
-[2. Add Two Numbers](/Problems/Linked_List/2_Add_Two_Numbers)
+### Linked List
+- [Add Two Numbers](/Problems/2_Add_Two_Numbers)
+- 
+- 
+-
+-
+-
+
+### Heap
+-
+-
+-
+
+### Graph
+
+### Tree
+
+### Stack
+
+### Matrix
+
+## Topics by Algorithm
+
+### Dynamic Programming
 
 ### Two Pointers Traversal / Sliding Window
 - Sliding Window: [3. Longest Substring Without Repeating Characters](/Problems/Sliding_Window/3_Longest_Substring_Without_Repeating_Characters)
@@ -57,20 +79,13 @@ Repo to keep track of the solutions &amp; notes for LeetCode problems.
 ### Digital Operations
 [9. Palindrome Number](/Problems/Digital_Operations/9_Palindrome_Number)
 
-### Stack
-
-### Heap
 
 ### Recursion
 
 ### Divide and Conquer / Dichotomy
 
-### Dynamic Programming
-
 ### Backtracking
 
 ### Trie
-
-### Tree Traversal
 
 ### Binary Search Tree
