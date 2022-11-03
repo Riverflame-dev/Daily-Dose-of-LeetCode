@@ -69,6 +69,11 @@ Repo to keep track of the solutions &amp; notes for LeetCode problems.
 ## Topics by Algorithm
 
 ### Dynamic Programming
+- [Climbing Stairs](/Problems/70_Climbing_Stairs)
+
+
+### Recursion
+- [Climbing Stairs](/Problems/70_Climbing_Stairs)
 
 ### Two Pointers Traversal / Sliding Window
 - Sliding Window: [3. Longest Substring Without Repeating Characters](/Problems/Sliding_Window/3_Longest_Substring_Without_Repeating_Characters)
@@ -82,9 +87,6 @@ Repo to keep track of the solutions &amp; notes for LeetCode problems.
 
 ### Digital Operations
 [9. Palindrome Number](/Problems/Digital_Operations/9_Palindrome_Number)
-
-
-### Recursion
 
 ### Divide and Conquer / Dichotomy
 
