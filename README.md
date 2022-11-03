@@ -27,7 +27,7 @@ Repo to keep track of the solutions &amp; notes for LeetCode problems.
 ### Interval
 - [Merge Intervals](/Problems/56_Merge_Intervals)
 - [Insert Interval](/Problems/57_Insert_Interval)
-- 
+- [Non-overlapping Intervals](/Problems/435_Non-overlapping_Intervals)
 - [Meeting Rooms](/Problems/252_Meeting_Rooms)
 - [Meeting Rooms II](/Problems/253_Meeting_Rooms_II)
 
