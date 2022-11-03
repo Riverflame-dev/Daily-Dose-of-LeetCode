@@ -69,11 +69,12 @@ Repo to keep track of the solutions &amp; notes for LeetCode problems.
 ## Topics by Algorithm
 
 ### Dynamic Programming
+Bottom up (dp[] array)
 - [Climbing Stairs](/Problems/70_Climbing_Stairs)
-
-
-### Recursion
+- 
+Top down (recursion tree)
 - [Climbing Stairs](/Problems/70_Climbing_Stairs)
+- [Coin Change](/Problems/322_Coin_Change)
 
 ### Two Pointers Traversal / Sliding Window
 - Sliding Window: [3. Longest Substring Without Repeating Characters](/Problems/Sliding_Window/3_Longest_Substring_Without_Repeating_Characters)
