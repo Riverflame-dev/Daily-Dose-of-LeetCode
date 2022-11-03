@@ -71,7 +71,7 @@ Repo to keep track of the solutions &amp; notes for LeetCode problems.
 ### Dynamic Programming
 Bottom up (dp[] array)
 - [Climbing Stairs](/Problems/70_Climbing_Stairs)
-- 
+- [Coin Change](/Problems/322_Coin_Change)
 Top down (recursion tree)
 - [Climbing Stairs](/Problems/70_Climbing_Stairs)
 - [Coin Change](/Problems/322_Coin_Change)
