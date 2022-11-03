@@ -27,7 +27,7 @@ class Solution {
         // Sort the meetings by end time
         Arrays.sort(intervals, new myComparator());
           
-        int end = intervals[0][1], prev = 0, count = 0;
+        int prev = 0, count = 0;
           
         // Iterate over remaining intervals
         for (int i = 1; i < intervals.length; i++) {
