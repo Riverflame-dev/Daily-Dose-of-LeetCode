@@ -33,8 +33,8 @@ class Solution {
           // dp[i+1]=max(dp[j])+1, where dp[j] is an interval before intervals[i]
           for (int j = i - 1; j >= 0; j--) {
               
-            // if there is no overlapping between dp[i] and dp[j]
-            // dp[i] will account for the number of valid intervals we have at dp[j]
+            // Skip the overlapped intervals
+            // find the maxinum of valid interval number for the non overlapped intervals 
             if (!isOverlapping(intervals[j], intervals[i])) max = Math.max(dp[j], max); 
           }
           
