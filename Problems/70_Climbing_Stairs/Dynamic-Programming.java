@@ -9,7 +9,7 @@ Time complexity : O(n)
 Space complexity : O(n)
 - dp array of size n is used.
 
-*NOTE: Remember that recursion is a TREE!!!
+*NOTE: Remember that recursion & Dynamic Programming is very similar
 
 */
 public class Solution {
