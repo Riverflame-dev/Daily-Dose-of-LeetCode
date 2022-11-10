@@ -73,10 +73,12 @@ Bottom up (dp[] array)
 - [Climbing Stairs](/Problems/70_Climbing_Stairs)
 - [Coin Change](/Problems/322_Coin_Change)
 - [Longest Increasing Subsequence](/Problems/300_Longest_Increasing_Subsequence)
+- [Longest Common Subsequence](/Problems/1143_Longest_Common_Subsequence)
 
 Top down (recursion tree)
 - [Climbing Stairs](/Problems/70_Climbing_Stairs)
 - [Coin Change](/Problems/322_Coin_Change)
+- [Longest Common Subsequence](/Problems/1143_Longest_Common_Subsequence)
 
 ### Two Pointers Traversal / Sliding Window
 - Sliding Window: [3. Longest Substring Without Repeating Characters](/Problems/Sliding_Window/3_Longest_Substring_Without_Repeating_Characters)
