@@ -36,8 +36,7 @@ Repo to keep track of the solutions &amp; notes for LeetCode problems.
 - [Longest Common Prefix](/Problems/14_Longest_Common_Prefix)
 - [Valid Parentheses](/Problems/20_Valid_Parentheses)
 - [Valid Anagram](/Problems/242_Valid_Anagram)
--
--
+- [Valid Palindrome](/Problems/125_Valid_Palindrome)
 -
 -
 -
